@@ -23,7 +23,7 @@ After training, the model is used to classify new handwritten digits that are no
   <img width="300" height="300" src="https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png">
 </p>
 <p align="center">
-Demo Test Image
+**Demo Test Image**
 </p>
 
 
@@ -31,7 +31,7 @@ Demo Test Image
   <img width="500" height="500" src="https://user-images.githubusercontent.com/83869332/229929903-44b0f050-ed73-422e-9488-7172528c1e09.png">
 </p>
 <p align="center">
-Prediction without hidden layer
+**Prediction without hidden layer**
 </p>
 
 
@@ -40,4 +40,4 @@ Prediction without hidden layer
 Handwritten digit detection models have many applications, including **optical character recognition**, **document processing**, and **digit recognition in postal**. services.
 
 ### Good Thoughts
-Deep learning is like cooking - you need the right ingredients (data), the right recipe (algorithm), and the right tools (computational resources) to make something delicious (accurate predictions)." - **_Fei-Fei Li_**
+> Deep learning is like cooking - you need the right ingredients (data), the right recipe (algorithm), and the right tools (computational resources) to make something delicious (accurate predictions)." - **_Fei-Fei Li_**
