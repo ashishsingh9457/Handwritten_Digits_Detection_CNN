@@ -19,8 +19,10 @@ After training, the model is used to classify new handwritten digits that are no
 **Data set** : mnist from keras
 
 ### Result Images
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png">
+</p>
 
-<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png">
 
 
 
