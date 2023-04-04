@@ -20,8 +20,8 @@ After training, the model is used to classify new handwritten digits that are no
 
 ### Result Images
 
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png">
-![image](https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png)
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png">
+
 
 
 ### Real World Uses
