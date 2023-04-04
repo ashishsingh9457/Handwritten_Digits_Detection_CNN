@@ -10,5 +10,5 @@ During training, the model is fed with a dataset of labeled images and adjusts i
 
 After training, the model can be used to classify new handwritten digits that are not present in the training data. The image is first preprocessed to normalize the pixel values and size, and then fed into the model for classification. The output of the model provides the predicted class label of the digit in the image.
 
-###Real World Uses
+### Real World Uses
 Handwritten digit detection models have many applications, including optical character recognition, document processing, and digit recognition in postal services.
