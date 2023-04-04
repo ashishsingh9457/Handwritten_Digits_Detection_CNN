@@ -1,7 +1,8 @@
 # Handwritten_Digits_Detection
 ## Deep Learning model 
-Handwritten digit detection involves recognizing and classifying handwritten digits from an image(28*28 pixels used in model). 
 
+### Description
+Handwritten digit detection involves recognizing and classifying handwritten digits from an image(28*28 pixels used in model).
 A handwritten digit detection model is a machine learning algorithm that is trained on a dataset of handwritten digits to recognize and classify them accurately.
 
 This model consists of several layers of artificial neural networks that use various mathematical functions to process the input image and predict the handwritten digit. The output layer of the model consists of a set of neurons, each corresponding to a particular digit class (0-9), which produces a probability distribution over the classes.
