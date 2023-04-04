@@ -37,7 +37,13 @@ After training, the model is used to classify new handwritten digits that are no
 
 
 ### Real World Uses
-Handwritten digit detection models have many applications, including **optical character recognition**, **document processing**, and **digit recognition in postal**. services.
+Handwritten digit detection models have many applications, including 
+
+**optical character recognition** 
+
+**document processing**, and
+
+**digit recognition in postal services.**
 
 ### Good Thoughts
 > Deep learning is like cooking - you need the right ingredients (data), the right recipe (algorithm), and the right tools (computational resources) to make something delicious (accurate predictions)." - **_Fei-Fei Li_**
