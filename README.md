@@ -19,4 +19,4 @@ After training, the model is used to classify new handwritten digits that are no
 **Data set** : mnist from keras
 
 ### Real World Uses
-Handwritten digit detection models have many applications, including optical character recognition, document processing, and digit recognition in postal services.
+Handwritten digit detection models have many applications, including **optical character recognition**, **document processing**, and **digit recognition in postal**. services.
