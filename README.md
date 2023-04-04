@@ -18,6 +18,11 @@ After training, the model is used to classify new handwritten digits that are no
 
 **Data set** : mnist from keras
 
+### Result Images
+
+![image](https://user-images.githubusercontent.com/83869332/229929262-8788290d-735a-4ed0-bd68-b6ce5a7e95d7.png)
+
+
 ### Real World Uses
 Handwritten digit detection models have many applications, including **optical character recognition**, **document processing**, and **digit recognition in postal**. services.
 
