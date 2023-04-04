@@ -25,9 +25,16 @@ After training, the model is used to classify new handwritten digits that are no
 <p align="center">
 Demo Test Image
 </p>
+
+
 <p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/83869332/229929903-44b0f050-ed73-422e-9488-7172528c1e09.png">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/83869332/229929903-44b0f050-ed73-422e-9488-7172528c1e09.png">
 </p>
+<p align="center">
+Prediction without hidden layer
+</p>
+
+
 
 ### Real World Uses
 Handwritten digit detection models have many applications, including **optical character recognition**, **document processing**, and **digit recognition in postal**. services.
